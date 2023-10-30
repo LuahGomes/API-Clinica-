@@ -19,7 +19,7 @@
 
 ## :ladder: Fucionalidades do Projeto
 
-- Listar as consultas que um médico atendeu
+- [x] Listar as consultas que um médico atendeu
 - [x] Criar consulta médica
 - [x] Listar consultas médicas
 - [x] Atualizar os dados de uma consulta
@@ -78,8 +78,5 @@
 }
 ```
 
-## :technologist: Autor e Contribuidores
-
-<a href="https://github.com/LuahGomes">
 
 
